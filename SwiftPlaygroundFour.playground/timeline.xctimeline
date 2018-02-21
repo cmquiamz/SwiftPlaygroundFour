@@ -3,7 +3,12 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/cmstudent/Documents/GitHub/SwiftPlaygroundFour/SwiftPlaygroundFour.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=189&amp;EndingColumnNumber=8&amp;EndingLineNumber=14&amp;StartingColumnNumber=5&amp;StartingLineNumber=14&amp;Timestamp=540866189.8996249"
+         documentLocation = "file:///Users/cmstudent/Documents/GitHub/SwiftPlaygroundFour/SwiftPlaygroundFour.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=90&amp;EndingColumnNumber=8&amp;EndingLineNumber=8&amp;StartingColumnNumber=5&amp;StartingLineNumber=8&amp;Timestamp=540867227.578666"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/cmstudent/Documents/GitHub/SwiftPlaygroundFour/SwiftPlaygroundFour.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=401&amp;EndingColumnNumber=11&amp;EndingLineNumber=33&amp;StartingColumnNumber=5&amp;StartingLineNumber=33&amp;Timestamp=540867227.578765"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
